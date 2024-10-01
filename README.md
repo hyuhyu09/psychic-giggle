@@ -1,7 +1,7 @@
 <p align="center">
 Welcome to My github
-
-![alternative text](https://s11.gifyu.com/images/SAXF6.gif)
+<p align="center">
+<img src="https://github.com/hyuhyu09/psychic-giggle/blob/main/40a96f89e840d2fd1b0563f07a109b6f.gif" width="50%" height="50%"/>
 
 На чем я работаю.
    <li>Python</a></li>
