@@ -1,9 +1,9 @@
 <p align="center">
-Welcome to My github
+:skull:  Welcome to My github :wave:
 <p align="center">
 <img src="https://github.com/hyuhyu09/psychic-giggle/blob/main/40a96f89e840d2fd1b0563f07a109b6f.gif" width="50%" height="50%"/>
 
-На чем я работаю.
+На чём я работаю.
    <li>Python</a></li>
    <li>HTML</a></li>
     <li>LUA</a></li>
@@ -22,4 +22,4 @@ Welcome to My github
 
 
 
-© eeeeeee zetki ventelator.
+ © eeeeeee zetki ventelator.</a></li>
