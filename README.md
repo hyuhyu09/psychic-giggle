@@ -16,7 +16,7 @@
  <li><a href="https://github.com/DanilSizz/SuperProjects/tree/Heck1337/%D0%BC%D0%BE%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/vishna_and_%D0%B2%D0%B8%D1%81%D0%B5%D0%BB%D0%B8%D1%86%D0%B0">висельница</a></li>
    <li> Локальный чат</a></li>
    прочие проекты:
-      <li> Как устоновить стим без прав администратора</a></li>
+      <li> Как установить стим без прав администратора</a></li>
 
 
 
